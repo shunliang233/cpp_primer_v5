@@ -1,0 +1,11 @@
+Welcome to the ATLAS Analysis Tutorial Week
+This is a week-long tutorial series designed to familiarize ATLAS members with the basics of ATLAS analysis software and the latest physics analysis tools.
+
+How to use this tutorial
+This page is meant to serve as a roadmap for the tutorial hands-on sessions. The introductory lecture slides are available on the corresponding Indico page. The hands-on exercises are linked for each day.
+
+The topics for each day are designed to follow an example ATLAS analysis from start to finish. The tutorial is meant to be followed from beginning to end to ensure a coherent overview of workflows.
+The exercises are separated so that you should be able to finish each section in a full day in a small group. You are also welcome to work through the exercises on your own.
+Some of this material will certainly be very new.
+Videos from the most recent in-person tutorial are embedded in the daily pages along with links to the slides. The videos may not be properly edited or subtitled at the time of viewing, but we are actively working on getting edited and subtitled versions uploaded.
+

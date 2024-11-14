@@ -1,0 +1,1 @@
+This guide describes how to use the batch service based on HTCondor.

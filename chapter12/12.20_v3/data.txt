@@ -1,0 +1,1 @@
+The Batch Service provides High Throughput Computing to support experiments and users at CERN. This guide will help you get up and running with the CERN service, but HTCondor is an externally developed product, so also bear in mind that external documentation are a useful resource.
